@@ -1,4 +1,4 @@
-module yusukemisa.wa/hello
+module github.com/yusukemisa/hello-go-module
 
 require (
 	rsc.io/quote v1.5.2

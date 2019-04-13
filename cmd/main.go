@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"yusukemisa.wa/hello"
+	"github.com/yusukemisa/hello-go-module"
 )
 
 func main() {
