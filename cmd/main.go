@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"example.com/hello"
+	"yusukemisa.wa/hello"
 )
 
 func main() {
